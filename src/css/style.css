@@ -62,12 +62,17 @@ header nav {
   margin: 10px 10px 0px 0px;
   padding: 0vh 0 2vh 0vw;
 }
-.img-skills {
+.img-skills1 {
   display: flex; 
-  justify-content: space-around;
+  justify-content: space-between;
   flex-wrap: wrap;
 }
 
+.img-skills2 {
+  display: flex; 
+  justify-content: center;
+  flex-wrap: wrap;
+}
 .img-skill {
   margin: 10px auto;
   width: 64px;
